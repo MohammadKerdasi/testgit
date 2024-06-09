@@ -28,12 +28,18 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+
       <h1>
         nahla
       </h1>
       <h1>
         osama
       </h1>
+
+      <h2>mohammad</h2>
+      <h3>nahla</h3>
+      <h2>mmm</h2>
+
     </>
   )
 }
